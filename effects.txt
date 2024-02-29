@@ -1,0 +1,100 @@
+Wall of Force appears in front of caster instead.
+Stinking Cloud appears centered on the caster instead.
+Caster shoots forth eight non-poisonous snakes from fingertips instead. Snakes do not attack and are not helpful in any way.
+Casters clothes become itchy but they gain a +2 to initiative.
+Caster glows as per a Light spell.
+Spell Effect has a 60' radius centered on the caster.
+Next phrase spoken by caster becomes true, lasting for 10 rounds.
+Casters hair grows one foot in length instead.
+Caster moves 5' per 1/2 Base Caster Bonus in a random direction instead.
+Casters face is blackened by a small explosion. Take 1d4 per spell level of the triggering spell in nonlethal damage instead.
+Caster develops allergy to his magical items instead. Character cannot control sneezing until all magical items are removed. Allergy lasts 1d6 turns.
+Caster's head becomes invisible for 1d3 turns
+Caster shrinks 1 size category for 10 min per Base Caster Bonus instead.
+Caster falls madly in love with target for 1d4 days or until a Remove Curse is cast.
+Spell cannot be canceled at will by caster.
+Caster Polymorphs into a random form instead.
+All caster's speech is replaced by bubbles that spell out the caster's thoughts above their head. They cannot cast spells with verbal components. Lasts 1 round per Base Caster Bonus.
+Reversed Tongues affects all creatures within 60 feet of the caster instead.
+Wall of Fire encircles caster.
+Caster's legs elongate, granting them +15 feet of movement. However they also have a 25% chance to fall prone when running.
+Caster suffers same spell effect as target.
+Caster levitates 20 feet in the air for 1d4 turns
+Cause Fear with 60' radius centered on caster. Caster immune.
+Caster speaks in a squeaky voice for 1d6 days.
+Caster gains X-ray vision for 1d6 rounds.
+Caster ages 1d6 years.
+Silence, 15' radius centers on caster.
+10' X 10' pit appears immediately in front of the caster, 5' deep per base caster bonus instead.
+Reverse gravity beneath caster's feet for 1 round.
+Colored streamers pour from caster's fingertips instead.
+Spell effect rebounds on caster.
+Caster becomes invisible as per the Invisibility spell.
+Color Spray from caster's fingertips.
+Stream of butterflies pours from caster's mouth instead.
+Caster leaves a random monster's (shaped) footprints instead of their own until a Dispel Magic is cast.
+3d6 gems shoot from the caster's fingertips instead. Each gem is worth 1d6x10gp.
+Music fills the air. Any bard music in effect continues for 1 round/level.
+Create Food and Water happens instead.
+All non magical fires within 60' of caster are extinguished
+One magical item within 30' of the caster (randomly chosen) has all magical abilities suppressed for 1day per Base Caster Bonus.
+One normal item within 30' of caster (randomly chosen) becomes magical for 1 day per Base Caster Bonus. Effect is random.
+All magical items within 20' of the caster gain an additional +1 Enhancement Bonus for 10 rounds.
+Smoke trickles from the ears of all creatures within 60' of caster for 1 turn.
+Dancing Lights appear instead.
+All creatures within 30' of caster begin to hiccup (50% spell fail on verbal spells, -2 to attack rolls)
+Knock With a 60' radius.
+Caster and target exchange places.
+Spell affects random  target within 60' of the caster.
+Spell fails but no mana is lost
+Summon Monster II occurs and the creatures have a 50% chance to be hostile.
+Sudden change in weather (temperature rise, snow, rain, etc.) lasting 1 round/level.
+Deafening bang affects everyone within 60'. All those who can hear must for save DC 10 + Base Caster Bonus or be Deafened for 1d6 rounds.
+Caster and target exchange bodies as if Alter Self for 24 hours, they do not physically swap places however.
+Gate opens to randomly chosen outer plane: 50% chance for an extra-planar creature to appear. Flip a coin and see what happens!
+Spell functions but the caster shrieks like a shrieker for 1d4 rounds, causing all creatures within 30 feet who can hear the noise to attempt a DC 10 +1/2 Base Caster Bonus Fortitude save or take 1d4 sonic damage each round. Save negates.
+Spell Effectiveness (duration, area of effect, damage, etc.) decreases 50%.
+Spell reversed, if reverse is possible
+Spell becomes a living spell for the normal duration of the spell.
+All weapons within 60' of caster glow for 1 round per Base Caster Bonus
+Spell functions, spell resistance does not apply, and target has a -5 to all saving throws versus this spell.
+Spell appears to fail when cast, but occurs 1d4 rounds later.
+All magical items within 60' of the caster clow for 1 day per Base Caster Bonus.
+Caster and target switch personalities for 2d10 rounds.
+The Slow spell comes into effect centered on the target instead.
+Target is affected by Delusional Pride instead.
+Lightning Bolt shoots toward the target instead.
+Target is affected by Enlarge Person instead.
+The Darkness spell comes into effect centered on the target instead
+The Plant Growth spell comes into effect centered on the target instead
+1,000 lbs of non-living matter within 10' of the target is vanishes (is "relocated").
+The Fireball spell comes into effect centered on the target instead.
+Target is affected by Flesh to Stone instead.
+Spell is cast; material, components, mana are not expended.
+Everyone within 10' of the caster receives the benefits of the Heal spell.
+Target becomes dizzy. -4 to all d20 rolls for 1 round per Base Caster Bonus instead. 
+Wall of Fire encircles the target instead.
+Target levitates 20' for 1d3 turns instead.
+Target suffers Blindness instead.
+Target is affected by Charm Monster instead.
+Target forgets the last 24 hours.
+Target's legs elongate, granting them +15 feet of movement. However, they also have a 25% chance to fall prone when running.
+A Rust Monster appears in front of the target instead.
+The target Polymorphs into a random form instead.
+Target falls madly in love with the caster for 1d4 days or until a Remove Curse is cast instead.
+Target changes gender.
+A small black raincloud forms over the target instead.
+Stinking Cloud appears centered on the target instead.
+A random heavy object (boulder, anvil, etc.) appears over the target and falls dealing 2d20 points of damage instead.
+Target begins sneezing uncontrollably, no spells can be cast until fit passes. Lasts 1d6 rounds.
+Spell effect has a 60' radius centered on the target, and all within that radius suffer the effect.
+Target's clothes also become itchy, and they gain a +2 to initiative.
+Target's  race changes to a different one randomly. This effect lasts until canceled by Dispel Magic
+Target turns ethereal for 2d4 rounds.
+Target is affected by Haste instead.
+All non magical cloth on target crumbles into dust.
+Target sprouts leaves, this causes no damage and can be "pruned" without harm.
+Target sprouts new and useless appendages (wings, arm, ear, etc.). This effect lasts until canceled by Dispel Magic.
+Target's skin changes to a random color for 1d4 days or until a Remove Curse is cast instead.
+Spell's duration is extended to triple its normal amount of time.
+Spell is considered Empowered and Maximized at no additional cost.
